@@ -1,0 +1,8 @@
+tick_reports_training.gpkg
+.ipynb_checkpoints/
+eumap-master-demo-python/
+covariates/
+prepared_2/
+tickData/
+*.pdf
+*.zip

@@ -1,0 +1,9 @@
+name: ticks
+channels:
+  - conda-forge
+dependencies:
+  - geopandas
+  - jupyter
+  - pip
+  - pip:
+    - git+https://gitlab.com/geoharmonizer_inea/eumap.git#egg=eumap[full]
