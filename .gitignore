@@ -1,0 +1,6 @@
+tick_reports_training.gpkg
+covariates/
+prepared_2/
+tickData/
+*.pdf
+*.zip
